@@ -1,1 +1,1 @@
-# ece250_labs
+# Algorithms and Data structures projects archive

@@ -1,1 +1,1 @@
-# Algorithms and Data structures projects archive
+# D&A projects archive

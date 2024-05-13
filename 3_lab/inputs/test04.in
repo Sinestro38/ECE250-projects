@@ -1,0 +1,4 @@
+create 1000
+load ./files/TheBeyond.txt
+ret_all 1 2 3 4
+exit

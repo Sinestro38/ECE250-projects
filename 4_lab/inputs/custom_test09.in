@@ -1,0 +1,56 @@
+load custom_files/a.txt
+print 2
+print 7
+print 5
+path 2 9
+lowest 2 9
+path 2 5
+lowest 2 5
+load custom_files/b.txt
+print 100
+path 2 100
+path 5 50
+print 50
+path 50 80
+path 50 20
+path 50 90
+lowest 50 20
+lowest 50 90
+delete 100
+print 80
+print 50
+print 90
+lowest 80 80
+load custom_files/b.txt
+load custom_files/b.txt
+update custom_files/c.txt
+print 100
+path 7 5
+lowest 7 5
+insert 5 7 1 1
+traffic 7 9 0.1
+path 2 9
+lowest 2 9
+path 100 90
+path 50 100
+lowest 50 100
+insert 2 9 24 19
+traffic 2 9 0.339
+insert 5 50 519 30
+traffic 5 500 0.812
+traffic 50 100 0.0
+insert 5 80 230 139
+traffic 50 80 0.657
+insert 80 90 102 25
+traffic 90 80 0.812
+insert 80 20 250 68
+traffic 80 20 0.512
+lowest 2 20
+path 20 2
+delete 9
+path 2 20
+lowest 2 20
+delete 5
+path 2 20
+lowest 2 20
+exit

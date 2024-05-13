@@ -1,0 +1,37 @@
+insert 80 100 100 20
+traffic 80 100 0.1
+insert 80 90 40 40
+insert 90 100 20 20
+insert 90 70 40 20
+traffic 90 70 0.7
+insert 70 100 1 1
+traffic 70 100 0.0
+insert 5 8 200 80
+traffic 5 8 0.2
+insert 8 1 40 80 
+traffic 8 1 0.3
+insert 1 10 200 90
+path 40 70
+path 70 40
+lowest 40 70
+lowest 70 40
+path 80 100
+path 100 80
+lowest 80 100
+lowest 100 80
+path 5 1
+lowest 5 1
+delete 1
+path 5 10
+lowest 5 10
+insert 5 100 1 1
+path 40 10
+insert 8 1 40 80 
+traffic 8 1 0.3
+path 40 10
+lowest 40 10
+insert 100 10 1 1
+path 5 10
+path 70 100
+lowest 70 100
+exit

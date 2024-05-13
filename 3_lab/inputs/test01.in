@@ -1,0 +1,10 @@
+create 10
+insert I
+insert am
+insert So
+insert great
+insert TA.
+insert Ahmed#
+tok_all I am so great
+ret_all 3 11 4 1
+exit

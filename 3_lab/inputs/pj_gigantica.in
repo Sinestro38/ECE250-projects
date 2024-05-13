@@ -1,0 +1,749 @@
+create 100
+ret_all 43 44 45 46 47 48
+print 84
+print 6
+print 84
+ret_all 70 71 72 73 74
+print 100
+print 73
+insert duis
+insert elephant
+ret_all 14 90 91 92
+insert cherry
+tok_all Curabitur tincidunt condimentum erat sed sagittis.
+insert omega
+insert giraffe
+ret 100
+tok_all Hello, world! This is a test case.
+insert crocodile
+print 2
+insert ligula
+tok_all Sphinx of black quartz, judge my vow.
+insert chicken
+print 73
+print 73
+insert lemon
+insert wildebeest
+ret_all 103 104 105 106 107 108
+ret_all 9 161 162 163 164 165
+print 84
+print 2
+print 84
+tok_all The quick brown fox jumps over the lazy dog.
+print 8
+insert sigma
+print 8
+print 23
+print 2
+print 84
+tok_all The holly and the ivy, when they are both full grown.
+insert upsilon
+print 53
+print 8
+insert neque
+insert hummingbird
+print 29
+tok_all How vexingly quick daft zebras jump!
+tok_all How razorback-jumping frogs can level six piqued gymnasts!
+print 73
+print 84
+insert fermentum
+print 84
+print 84
+ret_all 141 142 143 144 145 146 147 148 149 150
+print 84
+print 2
+ret_all 36 37 38 39 40 41 42
+insert silver
+tok_all Cras quis pretium purus, luctus porta purus.
+tok_all Morbi tempus semper nulla, ac iaculis neque tincidunt sed.
+insert orange
+ret 5
+print 84
+insert coral
+print 73
+insert nectarine
+insert cat
+insert dog
+print 2
+print 84
+insert red
+print 2
+insert ut
+print 5
+print 2
+insert brown
+print 84
+insert cardinal
+print 3
+tok_all Nullam magna nisl, ornare id commodo a, vehicula non eros.
+insert et
+insert sparrow
+tok_all Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce mattis nisi et lorem fringilla, scelerisque hendrerit massa iaculis.
+print 2
+insert vestibulum
+tok_all I can sing a rainbow, sing a rainbow, sing a rainbow too.
+ret_all 43 44 45 46 47 48
+insert posuere
+insert a
+print 2
+insert elementum
+ret_all 25 26 27 28 29 30
+print 2
+insert scelerisque
+insert green
+ret_all 18 19 20 21 22 23
+print 73
+print 73
+tok_all The jay, pig, fox, zebra and my wolves quack!
+print 2
+insert crane
+print 2
+ret_all 14 15 16 17
+insert hendrerit
+insert metus
+tok_all Curabitur convallis ligula quis orci tristique tempor.
+insert iota
+print 73
+print 84
+insert tiger
+print 2
+insert cras
+insert three
+insert stork
+tok_all How vexingly quick daft zebras jump!
+tok_all Hello world! This is an example.
+print 73
+insert mu
+print 73
+insert psi
+insert porta
+print 73
+ret_all 0 1 2 3 4
+insert raven
+print 73
+ret_all 31 32 33 34 35
+print 84
+insert pig
+ret_all 75 76 77 78 79 80
+ret_all 18 19 20 21 22 23 24
+tok_all Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+tok_all Integer viverra eget urna ut aliquam.
+tok_all Quick zephyrs blow, vexing daft Jim.
+ret_all 18 87 88 89
+ret_all 109 110 111 112 113 114 115 116 117
+print 84
+insert duck
+print 73
+ret_all 48 49 50 51 52 53 54 55 56 57 58 59 60
+insert vehicula
+print 84
+tok invalid
+print 2
+tok_all The quick onyx goblin jumps over the lazy dwarf.
+tok_all Jackdaws love my big sphinx of quartz.
+print 2
+insert rutrum
+ret_all 75 76 77 78 79 80
+print 73
+print 84
+insert pansy
+print 73
+print 84
+insert tristique
+print 2
+insert rabbit
+ret_all 10 11 12 13 14 15 16 17
+tok_all Nunc et eleifend leo.
+tok_all The five boxing wizards jump quickly.
+tok_all The jay, pig, fox, zebra and my wolves quack!
+tok_all Sphinx of black quartz, judge my vow.
+insert zeta
+insert zebra
+insert guinea
+insert curabitur
+insert yellow
+print 84
+ret_all 36 37 38 39 40 41 42
+insert tincidunt
+print 2
+insert amber
+insert topaz
+print 2
+print 2
+insert xi
+insert giraffe
+ret_all 31 32 33 34 35
+insert dolor
+ret_all 75 76 77 78 79 80
+insert honeysuckle
+print 84
+insert turkey
+ret_all 90 91 92 93 94
+insert pulvinar
+insert apple
+insert pink
+tok_all Quick zephyrs blow, vexing daft Jim.
+insert convallis
+print 8
+print 73
+insert monkey
+insert zucchini
+print 7
+print 9
+insert enim
+insert iaculis
+ret_all 70 71 72 73 74
+insert panda
+print 8
+insert hippo
+ret_all 31 32 33 34 35
+ret_all 1 2 3 4 5 6 7 8
+insert bear
+insert macaw
+ret_all 24 25 26 27 28 29 30
+print 84
+insert rhinoceros
+insert amet
+tok_all Vivamus laoreet urna mauris, ut vestibulum tortor rhoncus quis.
+insert bird
+insert mango
+ret_all 43 44 45 46 47 48
+print 2
+print 2
+insert world
+print 84
+ret_all 56 57 58 59 60 61 62
+insert blue
+insert lacus
+insert strawberry
+print 84
+print 2
+print 84
+print 84
+load ./files/TheBeyond.txt
+insert cow
+print 2
+tok_all Sed posuere laoreet scelerisque.
+tok_all The colors of the gems, sparkling in the light.
+print 6
+ret_all 70 71 72 73
+ret_all 0 1 2 3 4
+print 2
+print 8
+print 8
+insert peridot
+insert arcu
+tok_all The quick onyx goblin jumps over the lazy dwarf.
+insert beta
+print 73
+print 2
+insert goose
+tok_all In tristique, diam sed commodo elementum, ligula arcu hendrerit augue, at aliquam lectus tortor eget lectus.
+insert curae
+tok_all How vexingly quick daft zebras jump!
+print 2
+print 84
+print 84
+insert ipsum
+print 8
+ret_all 63 64 65 66 67 68 69
+print 2
+print 84
+ret_all 36 37 38 39 40 41 42
+insert gamma
+insert heron
+print 2
+tok_all The quick brown fox jumps over the lazy dog.
+insert kiwi
+print 73
+ret_all 127 128 129 130 131 132 133 120 134 135 136 137 138 139 140
+print 2
+insert eta
+print 73
+print 2
+print 2
+print 2
+tok_all April showers bring May flowers.
+insert kingfisher
+insert phasellus
+tok_all Pack my box with five dozen liquor jugs.
+insert fig
+insert olive
+insert finch
+insert faucibus
+insert chameleon
+insert quail
+insert jaguar
+print 73
+insert orci
+print 84
+insert daffodil
+ret_all 66 67 68 69
+insert primrose
+ret_all 18 19 20 21 22 23 24
+print 84
+tok_all How razorback-jumping frogs can level six piqued gymnasts!
+print 2
+insert aqua
+insert elderberry
+tok_all Diamonds are a girl's best friend.
+ret_all 9 10 11 12 13
+print 84
+insert violet
+print 8
+insert banana
+insert crow
+tok world
+insert vanilla
+ret 1
+print 8
+insert amethyst
+insert ruby
+print 73
+tok_all Paint with all the colors of the wind.
+print 73
+insert xigua
+print 73
+tok_all The scent of lavender fills the air.
+print 2
+print 2
+print 2
+insert consectetur
+tok_all Two driven jocks help fax my big quiz.
+insert ivy
+insert dandelion
+print 73
+print 84
+print 73
+print 84
+print 84
+print 84
+print 73
+insert mistletoe
+insert red_panda
+insert condor
+insert pigeon
+print 84
+print 73
+insert owl
+ret -1
+insert ostrich
+insert tangerine
+tok_all The world is your oyster, with pearls inside.
+insert pelican
+tok_all In a world of black and white, be a rainbow.
+ret_all 56 57 58 59 60 61 62
+tok_all Quisque suscipit viverra tincidunt.
+insert sodales
+insert chimpanzee
+ret_all 74 75 76 77
+print 2
+ret_all 6 36 37 38 39
+insert warthog
+ret 3
+insert dove
+print 84
+print 2
+insert maroon
+print 2
+insert delta
+insert emu
+print 2
+insert nu
+print 84
+insert pearl
+print 84
+insert vulture
+tok_all Pack my box with five dozen liquor jugs.
+print 2
+insert nibh
+ret_all 31 32 33 34 35 36 37 38 39 40
+print 73
+insert sloth
+ret_all 169 170 171 172
+print 2
+insert id
+print 2
+insert hamster
+ret_all 56 57 58 59 60
+print 73
+load ./files/absurdica.txt
+print 84
+insert peacock
+ret_all 33 19 20 34 35
+ret_all 51 52 53 54 55
+insert two
+insert sheep
+print 2
+insert !invalid
+insert morbi
+print 73
+ret_all 0 1 2 3 4 5
+ret_all 13 14 15 16 17
+insert white
+print 84
+insert toucan
+print 2
+print 73
+ret_all 28 29 30 31 32
+insert buttercup
+print 2
+print 73
+ret_all 63 64 65 66 67 68 69
+print 9
+tok_all The quick onyx goblin jumps over the lazy dwarf.
+print 84
+insert fringilla
+insert indigo
+ret_all 69 70 2 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86
+print 2
+insert forget-me-not
+print 73
+print 84
+ret_all 69 151 152 153 154 155 156 157 158 159 160
+insert hawk
+insert leo
+print 73
+print 73
+print 73
+print 2
+print 84
+insert in
+print 2
+print 8
+tok_all Pack my box with five dozen liquor jugs.
+insert bluebell
+tok_all Green eggs and ham, Sam I am.
+insert ostrich
+print 2
+insert theta
+insert gorilla
+print 84
+print 73
+insert cubilia
+insert watermelon
+insert quince
+insert platypus
+insert rose
+tok_all Roses are red, violets are blue.
+insert magenta
+insert tempor
+insert primis
+print 84
+ret_all 31 32 33 34 35
+print 2
+insert phi
+print 84
+ret_all 25 26 27 28 29 30
+insert turquoise
+print 84
+insert marigold
+print 84
+print 84
+print 84
+ret_all 85 86 87 88 89
+print 2
+ret_all 49 50 51 52 53 54 55
+tok_all Sphinx of black quartz, judge my vow.
+print 84
+ret_all 36 37 38 39 40 41 42
+ret_all 95 96 97 98 99
+tok_all The quick brown fox jumps over the lazy dog.
+ret_all 56 57 58 59 60 61 62
+insert viper
+insert robin
+tok_all A sapphire sky, an emerald sea, a golden sun shining down on me.
+print 2
+ret_all 49 50 51 52 53 54 55
+insert quis
+insert garnet
+insert holly
+print 73
+insert banana
+print 2
+insert pi
+insert hello
+print 2
+ret_all 41 173 174 175 176 177
+insert daisy
+tok_all Lavender's blue, dilly dilly, lavender's green.
+insert gecko
+ret_all 49 50 51 52 53 54 55
+insert iris
+print 2
+tok_all The jay, pig, fox, zebra and my wolves quack!
+insert purple
+ret_all 25 26 27 28 29 30
+tok_all Nam pulvinar et erat eu condimentum.
+insert chicken
+print 2
+tok_all She loves me, she loves me not.
+ret_all 61 62 63 64 65
+print 8
+insert fish
+insert nam
+print 73
+tok_all Sed sodales fermentum rutrum.
+insert sapphire
+print 73
+print 8
+tok_all Quick zephyrs blow, vexing daft Jim.
+ret_all 166 167 70 168
+print 8
+print 2
+tok_all A rose by any other name would smell as sweet.
+tok_all In sapien nibh, rhoncus ut justo quis, tristique vehicula arcu.
+tok_all The snapdragon, the lion's mouth, the dog's tooth.
+insert posuere
+print 84
+insert horse
+tok_all And when I am king, dilly dilly, you shall be queen.
+tok_all Forget me not, O Lord, forget me not.
+print 73
+print 73
+ret_all 1 2 3 4 5 6 7 8 9 10
+tok_all Aliquam placerat ipsum a tellus volutpat pulvinar.
+insert black
+insert opal
+insert eagle
+print 73
+ret_all 118 119 120 121 122 123 124 125 126
+print 84
+ret_all 1 24 25 26 8 27
+print 2
+insert teal
+print 2
+insert nisl
+insert ultrices
+insert sed
+print 8
+print 73
+print 84
+insert navy
+insert one
+insert yellow
+insert sollicitudin
+print 84
+print 2
+print 73
+print 2
+print 84
+tok_all Pack my box with five dozen liquor jugs.
+insert purus
+print 84
+print 2
+tok_all Etiam faucibus arcu nulla, quis sodales ligula commodo vel.
+print 73
+print 73
+insert orange
+insert cherry
+insert omicron
+insert justo
+print 2
+print 84
+insert gazelle
+insert date
+insert tulip
+insert hyena
+tok_all Two driven jocks help fax my big quiz.
+insert woodpecker
+insert penguin
+print 73
+ret_all 40 41 42 43 44 45 46
+print 73
+print 2
+print 2
+insert koala
+insert orchid
+insert albatross
+ret 2
+insert chi
+print 5
+insert apple
+print 73
+ret_all 1 2 3 4 5 6 7 8 9 10
+print 84
+print 84
+print 8
+print 73
+tok_all The five boxing wizards jump quickly.
+load ./files/prepostera.txt
+print 73
+insert c
+print 73
+tok_all Vestibulum lectus purus, suscipit sit amet massa sit amet, aliquam dignissim urna.
+print 8
+insert elit
+insert antelope
+insert tau
+insert seagull
+ret_all 1 2 3 4 5 6 7 8 9 10
+print 8
+print 84
+insert luctus
+print 2
+print 84
+tok_all How razorback-jumping frogs can level six piqued gymnasts!
+tok_all Jackdaws love my big sphinx of quartz.
+insert cyan
+insert fusce
+print 2
+tok_all Nam convallis tellus ut dapibus dignissim.
+insert nisi
+tok_all The marigold, that goes to bed with the sun and with him rises weeping.
+insert peony
+print 2
+print 2
+print 2
+tok hello
+insert hippopotamus
+print 2
+insert kappa
+insert emerald
+print -1
+ret_all 18 19 20 21 22 23
+print 84
+print 73
+print 8
+insert adipiscing
+print 2
+insert cobra
+insert turtle
+tok_all Pansies for thoughts, and violets for faithfulness.
+insert cassowary
+insert nulla
+insert mattis
+print 2
+print 84
+insert eu
+insert eleifend
+print 73
+ret_all 18 19 20 21 22 23 24
+insert jasmine
+ret_all 1 2 3 4 5
+print 84
+ret_all 100 101 102 103 104 105 106
+print 84
+insert erat
+insert flamingo
+insert lorem
+insert alpha
+insert lilac
+print 84
+print 73
+print 73
+print 2
+print 84
+print 84
+print 84
+insert lime
+tok_all Duis eleifend ac metus ut posuere.
+print 2
+insert violet
+print 84
+insert honeydew
+ret_all 6 7 8 9 10 11 12
+insert rho
+insert python
+tok_all Jackdaws love my big sphinx of quartz.
+insert lambda
+print 2
+print 73
+ret_all 41 42 43 44 45 46 47
+print 84
+tok_all The five boxing wizards jump quickly.
+insert lavender
+print 73
+insert chrysanthemum
+insert lion
+print 84
+ret_all 18 19 20 21 22 23 24
+insert semper
+insert diam
+print 2
+print 2
+print 84
+print 8
+insert ante
+print 2
+insert leopard
+tok_all Donec vel ante dolor.
+insert magpie
+tok_all All the colors of the rainbow, from red to violet hue.
+insert parrot
+insert ugli
+print 84
+tok_all The five boxing wizards jump quickly.
+insert grape
+tok_all Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+print 84
+insert papaya
+tok_all Phasellus elementum, leo id sollicitudin scelerisque, nisl enim hendrerit lacus, in tincidunt ligula ex non magna.
+insert sapien
+insert gold
+print 2
+print 2
+print 2
+print 2
+insert bluebird
+print 2
+insert falcon
+insert cheetah
+print 84
+insert b
+insert kangaroo
+ret_all 70 71 72 73 74
+print 84
+ret_all 47 48 49 50
+ret_all 25 26 27 28 29 30
+print 84
+print 2
+insert pretium
+print 84
+tok_all Duis tempor ullamcorper sagittis.
+ret_all 63 64 65 66 67 68 69
+print 84
+ret_all 93 94 95 96
+tok_all The quick brown fox jumps over the lazy dog.
+insert rhoncus
+print 8
+insert snapdragon
+insert epsilon
+insert swallow
+tok_all How vexingly quick daft zebras jump!
+insert lily
+print 73
+ret_all 1 2 3 4 5 6 7 8 9 10
+tok_all Sphinx of black quartz, judge my vow.
+print 84
+insert cockatoo
+print 8
+insert gray
+insert meerkat
+print 73
+ret_all 97 98 2 99 100 101 102
+insert iguana
+print 73
+print 4
+tok_all The quick brown fox jumps over the lazy dog.
+insert citrine
+print 84
+ret_all 1 2 3 4 5 6 7 8 9 10
+print 73
+print 84
+insert ac
+ret_all 78 79 80 81 82 83 84
+insert condimentum
+print 84
+insert carnation
+insert sunflower
+print 84
+insert sit
+print 84
+tok_all Two driven jocks help fax my big quiz.
+insert hello
+ret_all 61 62 63 64 65 66 67 68
+print 84
+insert raspberry
+exit

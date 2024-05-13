@@ -1,0 +1,11 @@
+create 10
+load files_test/whisper.txt
+tok_all I am so great the The and And
+ret_all 10 11 500 293
+tok_all apple
+tok_all nya crouched on the precipice
+ret_all 1 226 1540
+tok wind
+ret 8
+print 22
+exit

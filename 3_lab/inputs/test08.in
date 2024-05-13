@@ -1,0 +1,7 @@
+create 1
+insert computer
+insert cup
+insert monitor
+insert desk
+print 0
+exit

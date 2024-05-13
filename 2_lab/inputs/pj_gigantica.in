@@ -1,0 +1,289 @@
+load
+e DETECTIVE
+size
+empty
+spellcheck HAIR
+spellcheck GERMANY
+i HEAD
+e ANDY
+p
+spellcheck DETECTIVE
+i HARPSICHORD
+i BERLIN
+size
+spellcheck MOREWORDS
+spellcheck APPREHEND
+size
+p
+empty
+c MO
+i EVENMOREWORDS
+p
+empty
+c MA
+i CHIEF
+p
+i ARREST
+c BA
+spellcheck PENULTIMATEWORD
+e WARRANT
+load
+empty
+size
+p
+spellcheck HEAD
+i GERMANY
+empty
+empty
+p
+size
+i EAST
+spellcheck HIDEOUT
+c MAC
+e DETECTIVE
+c MAC
+spellcheck FINALWORD
+e MASKED
+i ARREST
+spellcheck AWAY
+c LA
+c CA
+p
+i CRIME
+i MACINTOSH
+size
+c DET
+size
+size
+c GE
+i AWAY
+c PE
+i GENDER
+c TR
+size
+size
+i ANOTHERWORD
+size
+i CALL
+p
+spellcheck CHIEF
+spellcheck EAST
+spellcheck MOVIE
+size
+spellcheck HARPSICHORD
+c CAR
+spellcheck RIGHT
+spellcheck HAIR
+c NE
+clear
+spellcheck CARMEN
+c MU
+size
+spellcheck UNKNOWN
+e MOVIE
+e NEWWORD
+c WA
+c GEN
+c HA
+i DETECTIVE
+c RI
+c CR
+i ANDY
+spellcheck RIGHT
+e FINALWORD
+empty
+i GERMANY
+i EAST
+i APPREHEND
+size
+i GENDER
+spellcheck GENDER
+e GERMANY
+size
+p
+size
+i TRACK
+e HAIR
+i MUST
+size
+size
+spellcheck TRACK
+p
+spellcheck GUMSHOE
+spellcheck COLOR
+size
+i ULTIMATEWORD
+c CO
+size
+e MACINTOSH
+spellcheck GERMANY
+spellcheck UNKNOWN
+spellcheck MUST
+spellcheck GUMSHOE
+e CARMEN
+e EUROPE
+i ANDY
+c WA
+e TRACK
+e CARMEN
+i HARPSICHORD
+c GE
+spellcheck CRIME
+p
+size
+size
+spellcheck EUROPE
+i AWAY
+p
+e SANDIEGO
+spellcheck WARRANT
+c HA
+empty
+size
+spellcheck CARMEN
+i DETECTIVE
+e RIGHT
+c HE
+c FI
+c AP
+c HA
+i CHIEF
+i MOREWORDS
+e MUST
+p
+empty
+c UL
+c TR
+spellcheck BERLIN
+i HEAD
+c UN
+c HI
+c TH
+spellcheck MACINTOSH
+i SANDIEGO
+empty
+e APPREHEND
+i THIEF
+c MU
+spellcheck TRACK
+spellcheck BACH
+size
+i CARMEN
+size
+spellcheck THIEF
+i PENULTIMATEWORD
+i CRIME
+p
+spellcheck ARREST
+size
+i HIDEOUT
+i GUMSHOE
+size
+i MOVIE
+i MASKED
+i CARMEN
+size
+p
+size
+c AN
+i RIGHT
+size
+i HAIR
+i EUROPE
+i SANDIEGO
+spellcheck MASKED
+i HIDEOUT
+p
+spellcheck MOVIE
+spellcheck ULTIMATEWORD
+empty
+p
+i MASKED
+i COLOR
+c MA
+c EA
+i APPREHEND
+c CH
+e MOREWORDS
+e CALL
+i BACH
+i BERLIN
+spellcheck WARRANT
+i WARRANT
+i TRACK
+i EUROPE
+size
+i HAIR
+e ULTIMATEWORD
+e UNKNOWN
+spellcheck CALL
+i LASTWORD
+size
+size
+i CALL
+i RIGHT
+empty
+spellcheck LASTWORD
+i COLOR
+i WARRANT
+spellcheck ANDY
+c AP
+size
+spellcheck ANDY
+c AN
+spellcheck DETECTIVE
+size
+i MOVIE
+i MALE
+i THIEF
+p
+i MALE
+p
+p
+c GUM
+spellcheck CALL
+size
+c MOV
+size
+i GUMSHOE
+i MUST
+p
+empty
+c AR
+size
+c AW
+spellcheck ANOTHERWORD
+spellcheck APPREHEND
+e LASTWORD
+empty
+spellcheck NEWWORD
+spellcheck MASKED
+c AN
+spellcheck BACH
+c BER
+c BA
+i MACINTOSH
+e BACH
+load
+clear
+c MOV
+size
+empty
+p
+c RI
+spellcheck MALE
+c GUM
+i NEWWORD
+i BACH
+c CA
+c DET
+i FINALWORD
+p
+e ANOTHERWORD
+spellcheck SANDIEGO
+spellcheck MUST
+c CAR
+p
+e GUMSHOE
+spellcheck MACINTOSH
+exit

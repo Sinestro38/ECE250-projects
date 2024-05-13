@@ -1,0 +1,3002 @@
+load custom_files/ins_big.txt
+print 332
+print 394
+path 332 394
+lowest 332 394
+print 5
+print 375
+path 5 375
+lowest 5 375
+print 392
+print 270
+path 392 270
+lowest 392 270
+print 306
+print 110
+path 306 110
+lowest 306 110
+print 94
+print 106
+path 94 106
+lowest 94 106
+print 142
+print 430
+path 142 430
+lowest 142 430
+print 189
+print 345
+path 189 345
+lowest 189 345
+print 155
+print 436
+path 155 436
+lowest 155 436
+print 90
+print 74
+path 90 74
+lowest 90 74
+print 63
+print 313
+path 63 313
+lowest 63 313
+print 483
+print 418
+path 483 418
+lowest 483 418
+print 469
+print 173
+path 469 173
+lowest 469 173
+print 473
+print 474
+path 473 474
+lowest 473 474
+print 435
+print 450
+path 435 450
+lowest 435 450
+print 332
+print 441
+path 332 441
+lowest 332 441
+print 483
+print 51
+path 483 51
+lowest 483 51
+print 329
+print 443
+path 329 443
+lowest 329 443
+print 306
+print 86
+path 306 86
+lowest 306 86
+print 113
+print 351
+path 113 351
+lowest 113 351
+print 307
+print 249
+path 307 249
+lowest 307 249
+print 186
+print 21
+path 186 21
+lowest 186 21
+print 436
+print 166
+path 436 166
+lowest 436 166
+print 315
+print 275
+path 315 275
+lowest 315 275
+print 151
+print 305
+path 151 305
+lowest 151 305
+print 237
+print 416
+path 237 416
+lowest 237 416
+print 349
+print 331
+path 349 331
+lowest 349 331
+print 283
+print 100
+path 283 100
+lowest 283 100
+print 397
+print 61
+path 397 61
+lowest 397 61
+print 29
+print 458
+path 29 458
+lowest 29 458
+print 442
+print 444
+path 442 444
+lowest 442 444
+print 480
+print 373
+path 480 373
+lowest 480 373
+print 280
+print 73
+path 280 73
+lowest 280 73
+print 270
+print 35
+path 270 35
+lowest 270 35
+print 14
+print 187
+path 14 187
+lowest 14 187
+print 82
+print 345
+path 82 345
+lowest 82 345
+print 258
+print 423
+path 258 423
+lowest 258 423
+print 310
+print 362
+path 310 362
+lowest 310 362
+print 213
+print 468
+path 213 468
+lowest 213 468
+print 120
+print 256
+path 120 256
+lowest 120 256
+print 73
+print 226
+path 73 226
+lowest 73 226
+print 259
+print 312
+path 259 312
+lowest 259 312
+print 148
+print 206
+path 148 206
+lowest 148 206
+print 203
+print 94
+path 203 94
+lowest 203 94
+print 200
+print 405
+path 200 405
+lowest 200 405
+print 214
+print 1
+path 214 1
+lowest 214 1
+print 457
+print 414
+path 457 414
+lowest 457 414
+print 316
+print 254
+path 316 254
+lowest 316 254
+print 215
+print 430
+path 215 430
+lowest 215 430
+print 312
+print 461
+path 312 461
+lowest 312 461
+print 368
+print 105
+path 368 105
+lowest 368 105
+print 410
+print 47
+path 410 47
+lowest 410 47
+print 15
+print 496
+path 15 496
+lowest 15 496
+print 2
+print 377
+path 2 377
+lowest 2 377
+print 417
+print 471
+path 417 471
+lowest 417 471
+print 128
+print 398
+path 128 398
+lowest 128 398
+print 443
+print 305
+path 443 305
+lowest 443 305
+print 446
+print 318
+path 446 318
+lowest 446 318
+print 13
+print 44
+path 13 44
+lowest 13 44
+print 23
+print 447
+path 23 447
+lowest 23 447
+print 398
+print 307
+path 398 307
+lowest 398 307
+print 372
+print 117
+path 372 117
+lowest 372 117
+print 16
+print 16
+path 16 16
+lowest 16 16
+print 448
+print 35
+path 448 35
+lowest 448 35
+print 350
+print 67
+path 350 67
+lowest 350 67
+print 96
+print 455
+path 96 455
+lowest 96 455
+print 347
+print 261
+path 347 261
+lowest 347 261
+print 259
+print 456
+path 259 456
+lowest 259 456
+print 101
+print 352
+path 101 352
+lowest 101 352
+print 393
+print 266
+path 393 266
+lowest 393 266
+print 175
+print 375
+path 175 375
+lowest 175 375
+print 329
+print 71
+path 329 71
+lowest 329 71
+print 427
+print 479
+path 427 479
+lowest 427 479
+print 145
+print 215
+path 145 215
+lowest 145 215
+print 36
+print 499
+path 36 499
+lowest 36 499
+print 349
+print 417
+path 349 417
+lowest 349 417
+print 118
+print 163
+path 118 163
+lowest 118 163
+print 293
+print 103
+path 293 103
+lowest 293 103
+print 236
+print 206
+path 236 206
+lowest 236 206
+print 479
+print 30
+path 479 30
+lowest 479 30
+print 376
+print 135
+path 376 135
+lowest 376 135
+print 135
+print 176
+path 135 176
+lowest 135 176
+print 293
+print 391
+path 293 391
+lowest 293 391
+print 475
+print 304
+path 475 304
+lowest 475 304
+print 52
+print 377
+path 52 377
+lowest 52 377
+print 261
+print 169
+path 261 169
+lowest 261 169
+print 40
+print 461
+path 40 461
+lowest 40 461
+print 129
+print 108
+path 129 108
+lowest 129 108
+print 103
+print 312
+path 103 312
+lowest 103 312
+print 91
+print 100
+path 91 100
+lowest 91 100
+print 403
+print 424
+path 403 424
+lowest 403 424
+print 133
+print 453
+path 133 453
+lowest 133 453
+print 123
+print 67
+path 123 67
+lowest 123 67
+print 367
+print 323
+path 367 323
+lowest 367 323
+print 41
+print 286
+path 41 286
+lowest 41 286
+print 156
+print 500
+path 156 500
+lowest 156 500
+print 480
+print 191
+path 480 191
+lowest 480 191
+print 42
+print 78
+path 42 78
+lowest 42 78
+print 170
+print 13
+path 170 13
+lowest 170 13
+print 449
+print 346
+path 449 346
+lowest 449 346
+print 287
+print 485
+path 287 485
+lowest 287 485
+print 65
+print 481
+path 65 481
+lowest 65 481
+print 63
+print 444
+path 63 444
+lowest 63 444
+print 456
+print 407
+path 456 407
+lowest 456 407
+print 40
+print 336
+path 40 336
+lowest 40 336
+print 140
+print 204
+path 140 204
+lowest 140 204
+print 104
+print 433
+path 104 433
+lowest 104 433
+print 477
+print 30
+path 477 30
+lowest 477 30
+print 363
+print 5
+path 363 5
+lowest 363 5
+print 18
+print 117
+path 18 117
+lowest 18 117
+print 319
+print 156
+path 319 156
+lowest 319 156
+print 93
+print 418
+path 93 418
+lowest 93 418
+print 224
+print 362
+path 224 362
+lowest 224 362
+print 266
+print 193
+path 266 193
+lowest 266 193
+print 298
+print 494
+path 298 494
+lowest 298 494
+print 284
+print 159
+path 284 159
+lowest 284 159
+print 424
+print 202
+path 424 202
+lowest 424 202
+print 12
+print 102
+path 12 102
+lowest 12 102
+print 221
+print 331
+path 221 331
+lowest 221 331
+print 232
+print 362
+path 232 362
+lowest 232 362
+print 66
+print 335
+path 66 335
+lowest 66 335
+print 331
+print 36
+path 331 36
+lowest 331 36
+print 299
+print 327
+path 299 327
+lowest 299 327
+print 19
+print 248
+path 19 248
+lowest 19 248
+print 21
+print 285
+path 21 285
+lowest 21 285
+print 344
+print 222
+path 344 222
+lowest 344 222
+print 113
+print 253
+path 113 253
+lowest 113 253
+print 120
+print 55
+path 120 55
+lowest 120 55
+print 415
+print 317
+path 415 317
+lowest 415 317
+print 221
+print 262
+path 221 262
+lowest 221 262
+print 341
+print 176
+path 341 176
+lowest 341 176
+print 436
+print 275
+path 436 275
+lowest 436 275
+print 116
+print 204
+path 116 204
+lowest 116 204
+print 352
+print 154
+path 352 154
+lowest 352 154
+print 111
+print 149
+path 111 149
+lowest 111 149
+print 452
+print 60
+path 452 60
+lowest 452 60
+print 450
+print 419
+path 450 419
+lowest 450 419
+print 111
+print 26
+path 111 26
+lowest 111 26
+print 102
+print 367
+path 102 367
+lowest 102 367
+print 226
+print 145
+path 226 145
+lowest 226 145
+print 153
+print 326
+path 153 326
+lowest 153 326
+print 195
+print 19
+path 195 19
+lowest 195 19
+print 439
+print 148
+path 439 148
+lowest 439 148
+print 308
+print 301
+path 308 301
+lowest 308 301
+print 417
+print 419
+path 417 419
+lowest 417 419
+print 471
+print 400
+path 471 400
+lowest 471 400
+print 295
+print 481
+path 295 481
+lowest 295 481
+print 3
+print 20
+path 3 20
+lowest 3 20
+print 180
+print 260
+path 180 260
+lowest 180 260
+print 433
+print 206
+path 433 206
+lowest 433 206
+print 76
+print 405
+path 76 405
+lowest 76 405
+print 444
+print 437
+path 444 437
+lowest 444 437
+print 365
+print 10
+path 365 10
+lowest 365 10
+print 173
+print 8
+path 173 8
+lowest 173 8
+print 448
+print 0
+path 448 0
+lowest 448 0
+print 396
+print 387
+path 396 387
+lowest 396 387
+print 289
+print 162
+path 289 162
+lowest 289 162
+print 189
+print 300
+path 189 300
+lowest 189 300
+print 314
+print 433
+path 314 433
+lowest 314 433
+print 214
+print 140
+path 214 140
+lowest 214 140
+print 129
+print 173
+path 129 173
+lowest 129 173
+print 366
+print 323
+path 366 323
+lowest 366 323
+print 49
+print 336
+path 49 336
+lowest 49 336
+print 343
+print 42
+path 343 42
+lowest 343 42
+print 320
+print 248
+path 320 248
+lowest 320 248
+print 173
+print 499
+path 173 499
+lowest 173 499
+print 115
+print 27
+path 115 27
+lowest 115 27
+print 48
+print 151
+path 48 151
+lowest 48 151
+print 94
+print 284
+path 94 284
+lowest 94 284
+print 35
+print 191
+path 35 191
+lowest 35 191
+print 69
+print 47
+path 69 47
+lowest 69 47
+print 11
+print 492
+path 11 492
+lowest 11 492
+print 178
+print 373
+path 178 373
+lowest 178 373
+print 415
+print 258
+path 415 258
+lowest 415 258
+print 446
+print 154
+path 446 154
+lowest 446 154
+print 191
+print 88
+path 191 88
+lowest 191 88
+print 267
+print 226
+path 267 226
+lowest 267 226
+print 325
+print 238
+path 325 238
+lowest 325 238
+print 139
+print 242
+path 139 242
+lowest 139 242
+print 276
+print 233
+path 276 233
+lowest 276 233
+print 184
+print 341
+path 184 341
+lowest 184 341
+print 240
+print 242
+path 240 242
+lowest 240 242
+print 405
+print 56
+path 405 56
+lowest 405 56
+print 119
+print 239
+path 119 239
+lowest 119 239
+print 41
+print 388
+path 41 388
+lowest 41 388
+print 146
+print 40
+path 146 40
+lowest 146 40
+print 430
+print 397
+path 430 397
+lowest 430 397
+print 409
+print 190
+path 409 190
+lowest 409 190
+print 65
+print 319
+path 65 319
+lowest 65 319
+print 328
+print 151
+path 328 151
+lowest 328 151
+print 22
+print 268
+path 22 268
+lowest 22 268
+print 255
+print 368
+path 255 368
+lowest 255 368
+print 488
+print 1
+path 488 1
+lowest 488 1
+print 285
+print 288
+path 285 288
+lowest 285 288
+print 302
+print 398
+path 302 398
+lowest 302 398
+print 361
+print 459
+path 361 459
+lowest 361 459
+print 437
+print 390
+path 437 390
+lowest 437 390
+print 400
+print 275
+path 400 275
+lowest 400 275
+print 244
+print 450
+path 244 450
+lowest 244 450
+print 365
+print 339
+path 365 339
+lowest 365 339
+print 176
+print 169
+path 176 169
+lowest 176 169
+print 241
+print 300
+path 241 300
+lowest 241 300
+print 150
+print 88
+path 150 88
+lowest 150 88
+print 266
+print 111
+path 266 111
+lowest 266 111
+print 384
+print 339
+path 384 339
+lowest 384 339
+print 148
+print 2
+path 148 2
+lowest 148 2
+print 352
+print 368
+path 352 368
+lowest 352 368
+print 232
+print 495
+path 232 495
+lowest 232 495
+print 459
+print 183
+path 459 183
+lowest 459 183
+print 62
+print 453
+path 62 453
+lowest 62 453
+print 338
+print 446
+path 338 446
+lowest 338 446
+print 310
+print 274
+path 310 274
+lowest 310 274
+print 325
+print 431
+path 325 431
+lowest 325 431
+print 334
+print 373
+path 334 373
+lowest 334 373
+print 50
+print 386
+path 50 386
+lowest 50 386
+print 279
+print 303
+path 279 303
+lowest 279 303
+print 314
+print 200
+path 314 200
+lowest 314 200
+print 364
+print 373
+path 364 373
+lowest 364 373
+print 126
+print 427
+path 126 427
+lowest 126 427
+print 212
+print 184
+path 212 184
+lowest 212 184
+print 366
+print 411
+path 366 411
+lowest 366 411
+print 112
+print 453
+path 112 453
+lowest 112 453
+print 257
+print 467
+path 257 467
+lowest 257 467
+print 388
+print 234
+path 388 234
+lowest 388 234
+print 103
+print 9
+path 103 9
+lowest 103 9
+print 72
+print 26
+path 72 26
+lowest 72 26
+print 162
+print 120
+path 162 120
+lowest 162 120
+print 412
+print 112
+path 412 112
+lowest 412 112
+print 63
+print 131
+path 63 131
+lowest 63 131
+print 0
+print 173
+path 0 173
+lowest 0 173
+print 183
+print 34
+path 183 34
+lowest 183 34
+print 461
+print 409
+path 461 409
+lowest 461 409
+print 322
+print 203
+path 322 203
+lowest 322 203
+print 268
+print 451
+path 268 451
+lowest 268 451
+print 340
+print 322
+path 340 322
+lowest 340 322
+print 66
+print 87
+path 66 87
+lowest 66 87
+print 377
+print 469
+path 377 469
+lowest 377 469
+print 63
+print 2
+path 63 2
+lowest 63 2
+print 304
+print 422
+path 304 422
+lowest 304 422
+print 247
+print 8
+path 247 8
+lowest 247 8
+print 448
+print 424
+path 448 424
+lowest 448 424
+print 364
+print 281
+path 364 281
+lowest 364 281
+print 363
+print 376
+path 363 376
+lowest 363 376
+print 331
+print 278
+path 331 278
+lowest 331 278
+print 322
+print 361
+path 322 361
+lowest 322 361
+print 137
+print 329
+path 137 329
+lowest 137 329
+print 79
+print 90
+path 79 90
+lowest 79 90
+print 420
+print 154
+path 420 154
+lowest 420 154
+print 347
+print 478
+path 347 478
+lowest 347 478
+print 46
+print 458
+path 46 458
+lowest 46 458
+print 407
+print 199
+path 407 199
+lowest 407 199
+print 238
+print 324
+path 238 324
+lowest 238 324
+print 262
+print 281
+path 262 281
+lowest 262 281
+print 11
+print 107
+path 11 107
+lowest 11 107
+print 61
+print 27
+path 61 27
+lowest 61 27
+print 124
+print 208
+path 124 208
+lowest 124 208
+print 499
+print 345
+path 499 345
+lowest 499 345
+print 35
+print 314
+path 35 314
+lowest 35 314
+print 260
+print 226
+path 260 226
+lowest 260 226
+print 381
+print 160
+path 381 160
+lowest 381 160
+print 392
+print 233
+path 392 233
+lowest 392 233
+print 54
+print 285
+path 54 285
+lowest 54 285
+print 63
+print 297
+path 63 297
+lowest 63 297
+print 289
+print 332
+path 289 332
+lowest 289 332
+print 15
+print 449
+path 15 449
+lowest 15 449
+print 247
+print 269
+path 247 269
+lowest 247 269
+print 199
+print 269
+path 199 269
+lowest 199 269
+print 264
+print 84
+path 264 84
+lowest 264 84
+print 319
+print 261
+path 319 261
+lowest 319 261
+print 483
+print 486
+path 483 486
+lowest 483 486
+print 155
+print 401
+path 155 401
+lowest 155 401
+print 145
+print 411
+path 145 411
+lowest 145 411
+print 262
+print 372
+path 262 372
+lowest 262 372
+print 50
+print 259
+path 50 259
+lowest 50 259
+print 48
+print 297
+path 48 297
+lowest 48 297
+print 375
+print 383
+path 375 383
+lowest 375 383
+print 22
+print 336
+path 22 336
+lowest 22 336
+print 36
+print 68
+path 36 68
+lowest 36 68
+print 28
+print 278
+path 28 278
+lowest 28 278
+print 8
+print 458
+path 8 458
+lowest 8 458
+print 77
+print 412
+path 77 412
+lowest 77 412
+print 12
+print 112
+path 12 112
+lowest 12 112
+print 307
+print 306
+path 307 306
+lowest 307 306
+print 210
+print 186
+path 210 186
+lowest 210 186
+print 393
+print 100
+path 393 100
+lowest 393 100
+print 461
+print 418
+path 461 418
+lowest 461 418
+print 384
+print 444
+path 384 444
+lowest 384 444
+print 477
+print 191
+path 477 191
+lowest 477 191
+print 382
+print 218
+path 382 218
+lowest 382 218
+print 416
+print 183
+path 416 183
+lowest 416 183
+print 133
+print 237
+path 133 237
+lowest 133 237
+print 94
+print 204
+path 94 204
+lowest 94 204
+print 457
+print 479
+path 457 479
+lowest 457 479
+print 391
+print 223
+path 391 223
+lowest 391 223
+print 124
+print 330
+path 124 330
+lowest 124 330
+print 164
+print 328
+path 164 328
+lowest 164 328
+print 312
+print 110
+path 312 110
+lowest 312 110
+print 483
+print 428
+path 483 428
+lowest 483 428
+print 188
+print 494
+path 188 494
+lowest 188 494
+print 469
+print 141
+path 469 141
+lowest 469 141
+print 143
+print 387
+path 143 387
+lowest 143 387
+print 455
+print 66
+path 455 66
+lowest 455 66
+print 454
+print 389
+path 454 389
+lowest 454 389
+print 368
+print 304
+path 368 304
+lowest 368 304
+print 123
+print 182
+path 123 182
+lowest 123 182
+print 304
+print 420
+path 304 420
+lowest 304 420
+print 106
+print 447
+path 106 447
+lowest 106 447
+print 11
+print 492
+path 11 492
+lowest 11 492
+print 227
+print 487
+path 227 487
+lowest 227 487
+print 295
+print 237
+path 295 237
+lowest 295 237
+print 26
+print 312
+path 26 312
+lowest 26 312
+print 147
+print 59
+path 147 59
+lowest 147 59
+print 26
+print 375
+path 26 375
+lowest 26 375
+print 495
+print 268
+path 495 268
+lowest 495 268
+print 95
+print 145
+path 95 145
+lowest 95 145
+print 154
+print 367
+path 154 367
+lowest 154 367
+print 156
+print 284
+path 156 284
+lowest 156 284
+print 333
+print 73
+path 333 73
+lowest 333 73
+print 300
+print 445
+path 300 445
+lowest 300 445
+print 343
+print 495
+path 343 495
+lowest 343 495
+print 302
+print 202
+path 302 202
+lowest 302 202
+print 186
+print 133
+path 186 133
+lowest 186 133
+print 58
+print 149
+path 58 149
+lowest 58 149
+print 127
+print 493
+path 127 493
+lowest 127 493
+print 181
+print 387
+path 181 387
+lowest 181 387
+print 437
+print 183
+path 437 183
+lowest 437 183
+print 387
+print 277
+path 387 277
+lowest 387 277
+print 25
+print 121
+path 25 121
+lowest 25 121
+print 67
+print 297
+path 67 297
+lowest 67 297
+print 192
+print 28
+path 192 28
+lowest 192 28
+print 375
+print 250
+path 375 250
+lowest 375 250
+print 465
+print 388
+path 465 388
+lowest 465 388
+print 416
+print 382
+path 416 382
+lowest 416 382
+print 170
+print 366
+path 170 366
+lowest 170 366
+print 106
+print 327
+path 106 327
+lowest 106 327
+print 384
+print 295
+path 384 295
+lowest 384 295
+print 396
+print 396
+path 396 396
+lowest 396 396
+print 302
+print 445
+path 302 445
+lowest 302 445
+print 217
+print 66
+path 217 66
+lowest 217 66
+print 216
+print 112
+path 216 112
+lowest 216 112
+print 312
+print 139
+path 312 139
+lowest 312 139
+print 273
+print 186
+path 273 186
+lowest 273 186
+print 173
+print 367
+path 173 367
+lowest 173 367
+print 249
+print 350
+path 249 350
+lowest 249 350
+print 249
+print 446
+path 249 446
+lowest 249 446
+print 170
+print 414
+path 170 414
+lowest 170 414
+print 341
+print 483
+path 341 483
+lowest 341 483
+print 251
+print 287
+path 251 287
+lowest 251 287
+print 292
+print 378
+path 292 378
+lowest 292 378
+print 118
+print 85
+path 118 85
+lowest 118 85
+print 241
+print 388
+path 241 388
+lowest 241 388
+print 315
+print 338
+path 315 338
+lowest 315 338
+print 119
+print 7
+path 119 7
+lowest 119 7
+print 340
+print 40
+path 340 40
+lowest 340 40
+print 144
+print 329
+path 144 329
+lowest 144 329
+print 157
+print 370
+path 157 370
+lowest 157 370
+print 302
+print 281
+path 302 281
+lowest 302 281
+print 78
+print 193
+path 78 193
+lowest 78 193
+print 114
+print 451
+path 114 451
+lowest 114 451
+print 43
+print 226
+path 43 226
+lowest 43 226
+print 408
+print 368
+path 408 368
+lowest 408 368
+print 488
+print 381
+path 488 381
+lowest 488 381
+print 481
+print 321
+path 481 321
+lowest 481 321
+print 146
+print 257
+path 146 257
+lowest 146 257
+print 380
+print 88
+path 380 88
+lowest 380 88
+print 414
+print 468
+path 414 468
+lowest 414 468
+print 408
+print 493
+path 408 493
+lowest 408 493
+print 404
+print 239
+path 404 239
+lowest 404 239
+print 192
+print 318
+path 192 318
+lowest 192 318
+print 34
+print 403
+path 34 403
+lowest 34 403
+print 458
+print 487
+path 458 487
+lowest 458 487
+print 141
+print 225
+path 141 225
+lowest 141 225
+print 65
+print 206
+path 65 206
+lowest 65 206
+print 148
+print 216
+path 148 216
+lowest 148 216
+print 146
+print 284
+path 146 284
+lowest 146 284
+print 291
+print 498
+path 291 498
+lowest 291 498
+print 378
+print 212
+path 378 212
+lowest 378 212
+print 162
+print 476
+path 162 476
+lowest 162 476
+print 308
+print 123
+path 308 123
+lowest 308 123
+print 418
+print 252
+path 418 252
+lowest 418 252
+print 429
+print 410
+path 429 410
+lowest 429 410
+print 420
+print 474
+path 420 474
+lowest 420 474
+print 278
+print 131
+path 278 131
+lowest 278 131
+print 109
+print 343
+path 109 343
+lowest 109 343
+print 246
+print 56
+path 246 56
+lowest 246 56
+print 456
+print 102
+path 456 102
+lowest 456 102
+print 203
+print 48
+path 203 48
+lowest 203 48
+print 291
+print 122
+path 291 122
+lowest 291 122
+print 72
+print 491
+path 72 491
+lowest 72 491
+print 414
+print 372
+path 414 372
+lowest 414 372
+print 491
+print 178
+path 491 178
+lowest 491 178
+print 344
+print 44
+path 344 44
+lowest 344 44
+print 88
+print 144
+path 88 144
+lowest 88 144
+print 368
+print 98
+path 368 98
+lowest 368 98
+print 389
+print 280
+path 389 280
+lowest 389 280
+print 140
+print 75
+path 140 75
+lowest 140 75
+print 365
+print 111
+path 365 111
+lowest 365 111
+print 286
+print 44
+path 286 44
+lowest 286 44
+print 285
+print 247
+path 285 247
+lowest 285 247
+print 492
+print 222
+path 492 222
+lowest 492 222
+print 8
+print 500
+path 8 500
+lowest 8 500
+print 76
+print 334
+path 76 334
+lowest 76 334
+print 31
+print 325
+path 31 325
+lowest 31 325
+print 399
+print 193
+path 399 193
+lowest 399 193
+print 272
+print 42
+path 272 42
+lowest 272 42
+print 336
+print 437
+path 336 437
+lowest 336 437
+print 68
+print 120
+path 68 120
+lowest 68 120
+print 449
+print 346
+path 449 346
+lowest 449 346
+print 406
+print 300
+path 406 300
+lowest 406 300
+print 86
+print 423
+path 86 423
+lowest 86 423
+print 309
+print 198
+path 309 198
+lowest 309 198
+print 431
+print 82
+path 431 82
+lowest 431 82
+print 70
+print 365
+path 70 365
+lowest 70 365
+print 273
+print 161
+path 273 161
+lowest 273 161
+print 492
+print 270
+path 492 270
+lowest 492 270
+print 188
+print 328
+path 188 328
+lowest 188 328
+print 163
+print 80
+path 163 80
+lowest 163 80
+print 222
+print 363
+path 222 363
+lowest 222 363
+print 223
+print 457
+path 223 457
+lowest 223 457
+print 244
+print 48
+path 244 48
+lowest 244 48
+print 266
+print 21
+path 266 21
+lowest 266 21
+print 496
+print 204
+path 496 204
+lowest 496 204
+print 27
+print 234
+path 27 234
+lowest 27 234
+print 224
+print 347
+path 224 347
+lowest 224 347
+print 352
+print 47
+path 352 47
+lowest 352 47
+print 157
+print 488
+path 157 488
+lowest 157 488
+print 85
+print 270
+path 85 270
+lowest 85 270
+print 223
+print 397
+path 223 397
+lowest 223 397
+print 209
+print 308
+path 209 308
+lowest 209 308
+print 229
+print 267
+path 229 267
+lowest 229 267
+print 265
+print 56
+path 265 56
+lowest 265 56
+print 278
+print 479
+path 278 479
+lowest 278 479
+print 268
+print 90
+path 268 90
+lowest 268 90
+print 435
+print 442
+path 435 442
+lowest 435 442
+print 334
+print 18
+path 334 18
+lowest 334 18
+print 126
+print 8
+path 126 8
+lowest 126 8
+print 355
+print 339
+path 355 339
+lowest 355 339
+print 12
+print 75
+path 12 75
+lowest 12 75
+print 305
+print 355
+path 305 355
+lowest 305 355
+print 338
+print 397
+path 338 397
+lowest 338 397
+print 395
+print 38
+path 395 38
+lowest 395 38
+print 305
+print 343
+path 305 343
+lowest 305 343
+print 326
+print 350
+path 326 350
+lowest 326 350
+print 403
+print 326
+path 403 326
+lowest 403 326
+print 417
+print 130
+path 417 130
+lowest 417 130
+print 147
+print 227
+path 147 227
+lowest 147 227
+print 134
+print 427
+path 134 427
+lowest 134 427
+print 422
+print 485
+path 422 485
+lowest 422 485
+print 349
+print 40
+path 349 40
+lowest 349 40
+print 228
+print 311
+path 228 311
+lowest 228 311
+print 148
+print 122
+path 148 122
+lowest 148 122
+print 378
+print 284
+path 378 284
+lowest 378 284
+print 79
+print 212
+path 79 212
+lowest 79 212
+print 465
+print 346
+path 465 346
+lowest 465 346
+print 468
+print 51
+path 468 51
+lowest 468 51
+print 369
+print 106
+path 369 106
+lowest 369 106
+print 235
+print 165
+path 235 165
+lowest 235 165
+print 378
+print 75
+path 378 75
+lowest 378 75
+print 447
+print 453
+path 447 453
+lowest 447 453
+print 77
+print 266
+path 77 266
+lowest 77 266
+print 161
+print 199
+path 161 199
+lowest 161 199
+print 394
+print 142
+path 394 142
+lowest 394 142
+print 77
+print 88
+path 77 88
+lowest 77 88
+print 420
+print 70
+path 420 70
+lowest 420 70
+print 476
+print 306
+path 476 306
+lowest 476 306
+print 281
+print 203
+path 281 203
+lowest 281 203
+print 104
+print 129
+path 104 129
+lowest 104 129
+print 133
+print 341
+path 133 341
+lowest 133 341
+print 318
+print 478
+path 318 478
+lowest 318 478
+print 41
+print 434
+path 41 434
+lowest 41 434
+print 324
+print 479
+path 324 479
+lowest 324 479
+print 288
+print 147
+path 288 147
+lowest 288 147
+print 21
+print 462
+path 21 462
+lowest 21 462
+print 255
+print 338
+path 255 338
+lowest 255 338
+print 313
+print 344
+path 313 344
+lowest 313 344
+print 459
+print 299
+path 459 299
+lowest 459 299
+print 320
+print 35
+path 320 35
+lowest 320 35
+print 53
+print 170
+path 53 170
+lowest 53 170
+print 275
+print 349
+path 275 349
+lowest 275 349
+print 394
+print 417
+path 394 417
+lowest 394 417
+print 309
+print 6
+path 309 6
+lowest 309 6
+print 15
+print 107
+path 15 107
+lowest 15 107
+print 193
+print 449
+path 193 449
+lowest 193 449
+print 289
+print 456
+path 289 456
+lowest 289 456
+print 289
+print 25
+path 289 25
+lowest 289 25
+print 178
+print 412
+path 178 412
+lowest 178 412
+print 224
+print 196
+path 224 196
+lowest 224 196
+print 239
+print 17
+path 239 17
+lowest 239 17
+print 284
+print 217
+path 284 217
+lowest 284 217
+print 97
+print 182
+path 97 182
+lowest 97 182
+print 380
+print 384
+path 380 384
+lowest 380 384
+print 299
+print 58
+path 299 58
+lowest 299 58
+print 453
+print 188
+path 453 188
+lowest 453 188
+print 219
+print 240
+path 219 240
+lowest 219 240
+print 430
+print 155
+path 430 155
+lowest 430 155
+print 34
+print 347
+path 34 347
+lowest 34 347
+print 58
+print 359
+path 58 359
+lowest 58 359
+print 19
+print 150
+path 19 150
+lowest 19 150
+print 229
+print 423
+path 229 423
+lowest 229 423
+print 300
+print 406
+path 300 406
+lowest 300 406
+print 186
+print 177
+path 186 177
+lowest 186 177
+print 228
+print 109
+path 228 109
+lowest 228 109
+print 493
+print 250
+path 493 250
+lowest 493 250
+print 186
+print 102
+path 186 102
+lowest 186 102
+print 424
+print 312
+path 424 312
+lowest 424 312
+print 140
+print 254
+path 140 254
+lowest 140 254
+print 424
+print 193
+path 424 193
+lowest 424 193
+print 86
+print 341
+path 86 341
+lowest 86 341
+print 398
+print 460
+path 398 460
+lowest 398 460
+print 115
+print 457
+path 115 457
+lowest 115 457
+print 132
+print 240
+path 132 240
+lowest 132 240
+print 183
+print 149
+path 183 149
+lowest 183 149
+print 170
+print 199
+path 170 199
+lowest 170 199
+print 414
+print 449
+path 414 449
+lowest 414 449
+print 378
+print 326
+path 378 326
+lowest 378 326
+print 126
+print 472
+path 126 472
+lowest 126 472
+print 17
+print 418
+path 17 418
+lowest 17 418
+print 463
+print 49
+path 463 49
+lowest 463 49
+print 256
+print 275
+path 256 275
+lowest 256 275
+print 141
+print 174
+path 141 174
+lowest 141 174
+print 185
+print 285
+path 185 285
+lowest 185 285
+print 491
+print 498
+path 491 498
+lowest 491 498
+print 393
+print 104
+path 393 104
+lowest 393 104
+print 90
+print 84
+path 90 84
+lowest 90 84
+print 438
+print 136
+path 438 136
+lowest 438 136
+print 52
+print 389
+path 52 389
+lowest 52 389
+print 198
+print 300
+path 198 300
+lowest 198 300
+print 493
+print 226
+path 493 226
+lowest 493 226
+print 407
+print 171
+path 407 171
+lowest 407 171
+print 296
+print 454
+path 296 454
+lowest 296 454
+print 166
+print 98
+path 166 98
+lowest 166 98
+print 424
+print 332
+path 424 332
+lowest 424 332
+print 261
+print 49
+path 261 49
+lowest 261 49
+print 3
+print 479
+path 3 479
+lowest 3 479
+print 133
+print 152
+path 133 152
+lowest 133 152
+print 427
+print 487
+path 427 487
+lowest 427 487
+print 407
+print 156
+path 407 156
+lowest 407 156
+print 137
+print 72
+path 137 72
+lowest 137 72
+print 288
+print 37
+path 288 37
+lowest 288 37
+print 123
+print 338
+path 123 338
+lowest 123 338
+print 421
+print 234
+path 421 234
+lowest 421 234
+print 266
+print 435
+path 266 435
+lowest 266 435
+print 55
+print 225
+path 55 225
+lowest 55 225
+print 210
+print 446
+path 210 446
+lowest 210 446
+print 53
+print 46
+path 53 46
+lowest 53 46
+print 459
+print 431
+path 459 431
+lowest 459 431
+print 222
+print 439
+path 222 439
+lowest 222 439
+print 420
+print 402
+path 420 402
+lowest 420 402
+print 435
+print 56
+path 435 56
+lowest 435 56
+print 99
+print 168
+path 99 168
+lowest 99 168
+print 340
+print 275
+path 340 275
+lowest 340 275
+print 359
+print 94
+path 359 94
+lowest 359 94
+print 203
+print 42
+path 203 42
+lowest 203 42
+print 117
+print 400
+path 117 400
+lowest 117 400
+print 9
+print 493
+path 9 493
+lowest 9 493
+print 206
+print 403
+path 206 403
+lowest 206 403
+print 58
+print 266
+path 58 266
+lowest 58 266
+print 364
+print 3
+path 364 3
+lowest 364 3
+print 354
+print 141
+path 354 141
+lowest 354 141
+print 390
+print 88
+path 390 88
+lowest 390 88
+print 374
+print 197
+path 374 197
+lowest 374 197
+print 353
+print 368
+path 353 368
+lowest 353 368
+print 20
+print 111
+path 20 111
+lowest 20 111
+print 80
+print 110
+path 80 110
+lowest 80 110
+print 50
+print 240
+path 50 240
+lowest 50 240
+print 307
+print 471
+path 307 471
+lowest 307 471
+print 402
+print 85
+path 402 85
+lowest 402 85
+print 302
+print 344
+path 302 344
+lowest 302 344
+print 326
+print 87
+path 326 87
+lowest 326 87
+print 277
+print 150
+path 277 150
+lowest 277 150
+print 172
+print 498
+path 172 498
+lowest 172 498
+print 200
+print 269
+path 200 269
+lowest 200 269
+print 56
+print 485
+path 56 485
+lowest 56 485
+print 156
+print 347
+path 156 347
+lowest 156 347
+print 108
+print 388
+path 108 388
+lowest 108 388
+print 440
+print 9
+path 440 9
+lowest 440 9
+print 207
+print 480
+path 207 480
+lowest 207 480
+print 266
+print 236
+path 266 236
+lowest 266 236
+print 106
+print 42
+path 106 42
+lowest 106 42
+print 136
+print 387
+path 136 387
+lowest 136 387
+print 429
+print 29
+path 429 29
+lowest 429 29
+print 313
+print 435
+path 313 435
+lowest 313 435
+print 447
+print 201
+path 447 201
+lowest 447 201
+print 497
+print 192
+path 497 192
+lowest 497 192
+print 145
+print 334
+path 145 334
+lowest 145 334
+print 428
+print 204
+path 428 204
+lowest 428 204
+print 444
+print 370
+path 444 370
+lowest 444 370
+print 335
+print 117
+path 335 117
+lowest 335 117
+print 316
+print 95
+path 316 95
+lowest 316 95
+print 197
+print 372
+path 197 372
+lowest 197 372
+print 403
+print 169
+path 403 169
+lowest 403 169
+print 53
+print 225
+path 53 225
+lowest 53 225
+print 438
+print 305
+path 438 305
+lowest 438 305
+print 427
+print 294
+path 427 294
+lowest 427 294
+print 347
+print 472
+path 347 472
+lowest 347 472
+print 275
+print 80
+path 275 80
+lowest 275 80
+print 29
+print 281
+path 29 281
+lowest 29 281
+print 133
+print 329
+path 133 329
+lowest 133 329
+print 306
+print 290
+path 306 290
+lowest 306 290
+print 196
+print 365
+path 196 365
+lowest 196 365
+print 422
+print 409
+path 422 409
+lowest 422 409
+print 122
+print 443
+path 122 443
+lowest 122 443
+print 49
+print 37
+path 49 37
+lowest 49 37
+print 286
+print 184
+path 286 184
+lowest 286 184
+print 440
+print 468
+path 440 468
+lowest 440 468
+print 81
+print 221
+path 81 221
+lowest 81 221
+print 58
+print 10
+path 58 10
+lowest 58 10
+print 388
+print 273
+path 388 273
+lowest 388 273
+print 312
+print 459
+path 312 459
+lowest 312 459
+print 262
+print 299
+path 262 299
+lowest 262 299
+print 321
+print 470
+path 321 470
+lowest 321 470
+print 145
+print 118
+path 145 118
+lowest 145 118
+print 77
+print 11
+path 77 11
+lowest 77 11
+print 198
+print 366
+path 198 366
+lowest 198 366
+print 89
+print 417
+path 89 417
+lowest 89 417
+print 403
+print 390
+path 403 390
+lowest 403 390
+print 298
+print 17
+path 298 17
+lowest 298 17
+print 372
+print 472
+path 372 472
+lowest 372 472
+print 58
+print 182
+path 58 182
+lowest 58 182
+print 307
+print 1
+path 307 1
+lowest 307 1
+print 426
+print 155
+path 426 155
+lowest 426 155
+print 167
+print 315
+path 167 315
+lowest 167 315
+print 489
+print 178
+path 489 178
+lowest 489 178
+print 339
+print 21
+path 339 21
+lowest 339 21
+print 118
+print 292
+path 118 292
+lowest 118 292
+print 117
+print 385
+path 117 385
+lowest 117 385
+print 330
+print 86
+path 330 86
+lowest 330 86
+print 216
+print 244
+path 216 244
+lowest 216 244
+print 87
+print 445
+path 87 445
+lowest 87 445
+print 498
+print 408
+path 498 408
+lowest 498 408
+print 332
+print 67
+path 332 67
+lowest 332 67
+print 234
+print 154
+path 234 154
+lowest 234 154
+print 120
+print 445
+path 120 445
+lowest 120 445
+print 260
+print 498
+path 260 498
+lowest 260 498
+print 427
+print 74
+path 427 74
+lowest 427 74
+print 332
+print 78
+path 332 78
+lowest 332 78
+print 263
+print 140
+path 263 140
+lowest 263 140
+print 311
+print 123
+path 311 123
+lowest 311 123
+print 457
+print 358
+path 457 358
+lowest 457 358
+print 311
+print 6
+path 311 6
+lowest 311 6
+print 300
+print 406
+path 300 406
+lowest 300 406
+print 34
+print 86
+path 34 86
+lowest 34 86
+print 475
+print 47
+path 475 47
+lowest 475 47
+print 85
+print 55
+path 85 55
+lowest 85 55
+print 307
+print 91
+path 307 91
+lowest 307 91
+print 4
+print 161
+path 4 161
+lowest 4 161
+print 487
+print 92
+path 487 92
+lowest 487 92
+print 451
+print 155
+path 451 155
+lowest 451 155
+print 65
+print 415
+path 65 415
+lowest 65 415
+print 101
+print 325
+path 101 325
+lowest 101 325
+print 331
+print 21
+path 331 21
+lowest 331 21
+print 121
+print 372
+path 121 372
+lowest 121 372
+print 213
+print 443
+path 213 443
+lowest 213 443
+print 133
+print 208
+path 133 208
+lowest 133 208
+print 17
+print 474
+path 17 474
+lowest 17 474
+print 43
+print 353
+path 43 353
+lowest 43 353
+print 322
+print 478
+path 322 478
+lowest 322 478
+print 405
+print 450
+path 405 450
+lowest 405 450
+print 256
+print 416
+path 256 416
+lowest 256 416
+print 121
+print 312
+path 121 312
+lowest 121 312
+print 199
+print 346
+path 199 346
+lowest 199 346
+print 495
+print 150
+path 495 150
+lowest 495 150
+print 158
+print 460
+path 158 460
+lowest 158 460
+print 454
+print 374
+path 454 374
+lowest 454 374
+print 211
+print 414
+path 211 414
+lowest 211 414
+print 467
+print 322
+path 467 322
+lowest 467 322
+print 145
+print 432
+path 145 432
+lowest 145 432
+print 25
+print 30
+path 25 30
+lowest 25 30
+print 2
+print 421
+path 2 421
+lowest 2 421
+print 377
+print 139
+path 377 139
+lowest 377 139
+print 205
+print 477
+path 205 477
+lowest 205 477
+print 480
+print 368
+path 480 368
+lowest 480 368
+print 166
+print 322
+path 166 322
+lowest 166 322
+print 399
+print 31
+path 399 31
+lowest 399 31
+print 398
+print 402
+path 398 402
+lowest 398 402
+print 342
+print 23
+path 342 23
+lowest 342 23
+print 463
+print 120
+path 463 120
+lowest 463 120
+print 484
+print 306
+path 484 306
+lowest 484 306
+print 189
+print 394
+path 189 394
+lowest 189 394
+print 418
+print 477
+path 418 477
+lowest 418 477
+print 406
+print 424
+path 406 424
+lowest 406 424
+print 368
+print 182
+path 368 182
+lowest 368 182
+print 358
+print 281
+path 358 281
+lowest 358 281
+print 99
+print 384
+path 99 384
+lowest 99 384
+print 413
+print 97
+path 413 97
+lowest 413 97
+print 449
+print 191
+path 449 191
+lowest 449 191
+print 475
+print 494
+path 475 494
+lowest 475 494
+print 429
+print 219
+path 429 219
+lowest 429 219
+print 357
+print 172
+path 357 172
+lowest 357 172
+print 432
+print 481
+path 432 481
+lowest 432 481
+print 152
+print 315
+path 152 315
+lowest 152 315
+print 123
+print 16
+path 123 16
+lowest 123 16
+print 217
+print 242
+path 217 242
+lowest 217 242
+print 168
+print 9
+path 168 9
+lowest 168 9
+print 235
+print 294
+path 235 294
+lowest 235 294
+print 345
+print 435
+path 345 435
+lowest 345 435
+print 178
+print 344
+path 178 344
+lowest 178 344
+print 480
+print 101
+path 480 101
+lowest 480 101
+print 52
+print 384
+path 52 384
+lowest 52 384
+print 410
+print 136
+path 410 136
+lowest 410 136
+print 66
+print 291
+path 66 291
+lowest 66 291
+print 291
+print 192
+path 291 192
+lowest 291 192
+print 224
+print 221
+path 224 221
+lowest 224 221
+print 471
+print 285
+path 471 285
+lowest 471 285
+print 209
+print 146
+path 209 146
+lowest 209 146
+print 245
+print 486
+path 245 486
+lowest 245 486
+print 184
+print 192
+path 184 192
+lowest 184 192
+print 441
+print 473
+path 441 473
+lowest 441 473
+print 146
+print 301
+path 146 301
+lowest 146 301
+print 433
+print 169
+path 433 169
+lowest 433 169
+print 402
+print 437
+path 402 437
+lowest 402 437
+print 264
+print 472
+path 264 472
+lowest 264 472
+print 74
+print 210
+path 74 210
+lowest 74 210
+print 44
+print 440
+path 44 440
+lowest 44 440
+print 489
+print 235
+path 489 235
+lowest 489 235
+print 392
+print 85
+path 392 85
+lowest 392 85
+print 273
+print 53
+path 273 53
+lowest 273 53
+print 140
+print 37
+path 140 37
+lowest 140 37
+print 466
+print 177
+path 466 177
+lowest 466 177
+print 307
+print 100
+path 307 100
+lowest 307 100
+print 1
+print 5
+path 1 5
+lowest 1 5
+print 466
+print 227
+path 466 227
+lowest 466 227
+print 161
+print 285
+path 161 285
+lowest 161 285
+print 448
+print 53
+path 448 53
+lowest 448 53
+print 65
+print 222
+path 65 222
+lowest 65 222
+print 105
+print 40
+path 105 40
+lowest 105 40
+print 26
+print 472
+path 26 472
+lowest 26 472
+print 164
+print 69
+path 164 69
+lowest 164 69
+print 424
+print 345
+path 424 345
+lowest 424 345
+print 54
+print 410
+path 54 410
+lowest 54 410
+print 495
+print 307
+path 495 307
+lowest 495 307
+print 384
+print 390
+path 384 390
+lowest 384 390
+print 73
+print 212
+path 73 212
+lowest 73 212
+print 323
+print 322
+path 323 322
+lowest 323 322
+print 226
+print 496
+path 226 496
+lowest 226 496
+print 404
+print 332
+path 404 332
+lowest 404 332
+print 486
+print 93
+path 486 93
+lowest 486 93
+print 320
+print 482
+path 320 482
+lowest 320 482
+print 25
+print 48
+path 25 48
+lowest 25 48
+print 11
+print 206
+path 11 206
+lowest 11 206
+print 142
+print 387
+path 142 387
+lowest 142 387
+print 265
+print 205
+path 265 205
+lowest 265 205
+print 98
+print 389
+path 98 389
+lowest 98 389
+print 139
+print 421
+path 139 421
+lowest 139 421
+print 185
+print 430
+path 185 430
+lowest 185 430
+print 303
+print 480
+path 303 480
+lowest 303 480
+print 75
+print 383
+path 75 383
+lowest 75 383
+print 235
+print 74
+path 235 74
+lowest 235 74
+print 193
+print 346
+path 193 346
+lowest 193 346
+print 37
+print 374
+path 37 374
+lowest 37 374
+print 363
+print 426
+path 363 426
+lowest 363 426
+exit

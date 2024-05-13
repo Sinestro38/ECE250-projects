@@ -1,0 +1,5 @@
+create 10
+load ./files/prepostera.txt
+tok_all I am so great the The and And
+ret_all 10 11 500 293
+exit
